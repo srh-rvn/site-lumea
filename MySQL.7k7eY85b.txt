@@ -1,0 +1,4 @@
+serveur MySQL      : mysql03.univ-lyon2.fr
+utilisateur        : php_sraveneau
+base de données    : php_sraveneau
+mot de passe MySQL : tDfR0_LchL0SWvfWsp5TAAiIw
