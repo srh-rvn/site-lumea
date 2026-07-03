@@ -32,14 +32,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       <title>Maison Luméa</title>
       <meta charset="UTF-8" />
 	  <link rel="stylesheet" type = "text/css" href="feuille_style.css">
-	  <link rel="icon" href="./Images/logo.png"/>
+	  <link rel="icon" href="Images/logo.png"/>
 	  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
    </head>
    
    <body>
 
 	<header class="header">
-  		<img src="./Images/logo.png" alt="Logo du site" class="logo">
+  		<img src="Images/logo.png" alt="Logo du site" class="logo">
 		<h1 id="haut" class="nom_marque">MAISON LUMEA</h1>
 	</header>
 
